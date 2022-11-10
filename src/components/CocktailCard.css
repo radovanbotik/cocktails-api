@@ -1,0 +1,15 @@
+.cocktail-card {
+  max-width: 200px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.cocktail-card img {
+  order: 1;
+}
+.cocktail-card h3 {
+  order: 2;
+}
+.cocktail-card h2 {
+  order: 3;
+}

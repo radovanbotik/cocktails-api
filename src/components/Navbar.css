@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar .navlogo {
+  text-transform: uppercase;
+}
+.navbar .links {
+  display: flex;
+  gap: 2ex;
+}
